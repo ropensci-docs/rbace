@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "814cfc7375deb090583f581bf6b54a5785092e30",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-11-25 16:17:09",
+    "files": 2,
+    "merge": false,
+    "message": "change travis badge to gh actions badge\n"
+  },
+  "remote": "https://github.com/ropensci/rbace",
+  "pkg": "rbace"
+}
